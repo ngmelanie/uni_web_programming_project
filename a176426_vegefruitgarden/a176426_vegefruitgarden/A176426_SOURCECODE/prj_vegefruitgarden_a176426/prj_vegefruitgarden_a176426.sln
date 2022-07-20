@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_vegefruitgarden_a176426", "prj_vegefruitgarden_a176426\prj_vegefruitgarden_a176426.vbproj", "{F3113C80-193E-4DA7-A002-A44D7B7ADD24}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_VegeFruitGarden", "Setup_VegeFruitGarden\Setup_VegeFruitGarden.vdproj", "{70A074D0-9F2C-49B5-9085-376199991C47}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_VegeFruit_Garden", "Setup_VegeFruit_Garden\Setup_VegeFruit_Garden.vdproj", "{317EFF10-45BA-438D-A53B-ACC29FB94B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3113C80-193E-4DA7-A002-A44D7B7ADD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3113C80-193E-4DA7-A002-A44D7B7ADD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3113C80-193E-4DA7-A002-A44D7B7ADD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3113C80-193E-4DA7-A002-A44D7B7ADD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A074D0-9F2C-49B5-9085-376199991C47}.Debug|Any CPU.ActiveCfg = Debug
+		{70A074D0-9F2C-49B5-9085-376199991C47}.Release|Any CPU.ActiveCfg = Release
+		{317EFF10-45BA-438D-A53B-ACC29FB94B6B}.Debug|Any CPU.ActiveCfg = Debug
+		{317EFF10-45BA-438D-A53B-ACC29FB94B6B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B497C4FE-773C-41DB-93FC-C3DB328A79DD}
+	EndGlobalSection
+EndGlobal
